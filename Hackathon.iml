@@ -7,5 +7,11 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="serial-3.3.7" level="project" />
+    <orderEntry type="library" name="core-3.3.6" level="project" />
+    <orderEntry type="library" name="jssc-2.9.2" level="project" />
+    <orderEntry type="library" name="native-lib-loader-2.3.3" level="project" />
+    <orderEntry type="library" name="slf4j-api-1.7.25" level="project" />
+    <orderEntry type="library" name="slf4j-simple-1.6.1" level="project" />
   </component>
 </module>
